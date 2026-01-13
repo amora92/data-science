@@ -36,6 +36,7 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 ## How to use this guide
 
 ### Duration
+
 It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet](https://docs.google.com/spreadsheets/d/1TEGSUQDFuWL3TYNjiM8G3esly-tKOcgHSDABt92mzdA/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the Curriculum Data sheet and get updated completion estimates.
 
 > **Warning:** While the spreadsheet is a useful tool to estimate the time you need to complete this curriculum, it may not be up-to-date with the curriculum. Use the spreadsheet just to estimate the time you need. Use the [the GitHub repo](https://github.com/ossu/data-science) to see what courses to do.
@@ -60,15 +61,16 @@ You must share only files that you are allowed. **Do NOT disrespect the code of 
 
 ## Community
 
-We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
+We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don&#39;t you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/data-science/issues).
 
 Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
 > **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU Data Science Github Repo](https://github.com/ossu/data-science). Some known outdated materials are:
->  - An unmaintained and deprecated trello board
->  - Third-party notion templates
+>
+> - An unmaintained and deprecated trello board
+> - Third-party notion templates
 
 ## Prerequisites
 
@@ -83,20 +85,22 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Single Variable Calculus](#single-variable-calculus)
 - [Linear Algebra](#linear-algebra)
 - [Multivariable Calculus](#multivariable-calculus)
-- [Statistics & Probability](#statistics--probability)
-- [Data Science Tools & Methods](#data-science-tools--methods)
+- [Statistics &amp; Probability](#statistics--probability)
+- [Data Science Tools &amp; Methods](#data-science-tools--methods)
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
 
 ### Introduction to Data Science
 
-[What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+[What is Data Science](https://www.coursera.org/learn/what-is-datascience) 
+
+#Started 1/13/2026 ✅ Most of it is done
 
 ### Introduction to Computer Science
 
 _Students who already know basic programming in any language can skip this first course_
 
-[Introduction to programming](coursepages/intro-programming/README.md)
+[Introduction to programming](coursepages/intro-programming/README.md) ✅ #Started 1/13/2026 CS50P
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
@@ -136,7 +140,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Calculus 1B: Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
 
-[Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
+[Calculus 1C: Coordinate Systems &amp; Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
 
 ### Linear Algebra
 
@@ -219,7 +223,7 @@ If you want to suggest a new resource, send a pull request adding such resource 
 
 ## Code of Conduct
 
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+[OSSU&#39;s code of conduct](https://github.com/ossu/code-of-conduct).
 
 ## Team
 
